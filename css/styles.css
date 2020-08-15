@@ -1,15 +1,15 @@
-
+/* For index.htlm */
 /* Hero */
 .hero {
   background-color: #2f303a;
 }
 .hero-title {
   color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 44px;
+  font-weight: 900;
 }
-.hero-link {
-  color: #ffffff;
-}
+
 
 /* For portfolio.htlm */
-
-
